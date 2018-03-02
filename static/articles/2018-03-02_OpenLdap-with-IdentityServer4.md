@@ -169,9 +169,11 @@ Once you start your QuickStart you will have 3 urls available.
 3. http://localhost:5000/ : Identity Server4 OpenId Server
 
 **Login Page** (Forwarded to localhost:5000)
+
 ![Look login](../static/images/articles/2018-03-02_OpenLdap-with-IdentityServer4/login.png "Look Login")
 
 **User detail in Secure Page after successful login** (Redirected after success to localhost:5002)
+
 ![Look the User Details](../static/images/articles/2018-03-02_OpenLdap-with-IdentityServer4/userDetails.png "Look the User Details")
 
 ## 5. BTW
